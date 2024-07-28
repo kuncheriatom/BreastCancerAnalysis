@@ -19,9 +19,9 @@ To run this project locally, follow these steps:
 
 ### 1. **Clone the Repository**
 
-   git clone https://github.com/kuncheriatom/BreastCancerAnalysis
+   `git clone https://github.com/kuncheriatom/BreastCancerAnalysis`
    
-   cd BreastCancerAnalysis
+   `cd BreastCancerAnalysis`
 
 
 ### 2. Create and Activate a Virtual Environment
