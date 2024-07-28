@@ -27,7 +27,8 @@ To run this project locally, follow these steps:
 
 
 python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+
+#On Windows use `env\Scripts\activate` to activate
 
 
 ### 3. Install Dependencies
