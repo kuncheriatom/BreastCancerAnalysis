@@ -92,8 +92,3 @@ The Streamlit app provides descriptions for each feature used in the model. The 
 
 - The dataset used in this project is available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
 
-
-For any issues or questions, please open an issue or contact me directly.
-
-
-You can copy this block of text into a file named `README.md` and place it in the root directory of your GitHub repository.
